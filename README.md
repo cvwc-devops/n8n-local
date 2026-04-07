@@ -95,3 +95,11 @@ If you want, add a second Compose file for PostgreSQL so local development more 
 - https://community.n8n.io/
 - https://www.youtube.com/watch?v=YqWCBW1VrBc
 
+- https://cursor.com/
+- https://cursor.com/docs
+- https://claude.ai/
+- https://docs.claude.com/
+
+- https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/
+
+
