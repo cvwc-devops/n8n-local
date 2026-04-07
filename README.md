@@ -101,5 +101,6 @@ If you want, add a second Compose file for PostgreSQL so local development more 
 - https://docs.claude.com/
 
 - https://www.freecodecamp.org/news/learn-cloud-security-fundamentals-in-aws-a-guide-for-beginners/
+- https://www.linkedin.com/company/n8n/posts/?feedView=all
 
 
