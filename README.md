@@ -92,4 +92,4 @@ If you want, add a second Compose file for PostgreSQL so local development more 
 ## other
 https://docs.n8n.io/advanced-ai/accessing-n8n-mcp-server/
 https://github.com/MauricioPerera/n8n-cli
-
+https://community.n8n.io/
